@@ -2,7 +2,7 @@ Projet : Gestion des Étudiants
 
 Ce projet propose une API REST permettant de gérer les informations des étudiants en utilisant une base de données MySQL.
 
-Fonctionnalités:
+Fonctionnalités
 L'API expose les fonctionnalités suivantes :
 
 Ajouter un étudiant :
