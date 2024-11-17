@@ -56,5 +56,6 @@ bash
 mvn spring-boot:run
 Une fois l'application démarrée, vous pouvez accéder à l'interface Swagger UI pour tester l'API à l'adresse suivante :
 http://localhost:8080/swagger-ui.html
+
 video Démo : https://github.com/user-attachments/assets/cf49dbbb-b963-44f6-8f92-18b78b60fce9
 
